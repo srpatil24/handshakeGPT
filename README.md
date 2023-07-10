@@ -7,7 +7,7 @@
 ```
 pip3 install selenium
 git clone https://github.com/srpatil24/handshakeGPT.git
-cd dataCollection
+cd handshakeGPT/dataCollection
 python3 randomWebsites.py
 ```
 4. After at least 30-45 minutes, stop the script and stop capturing packets

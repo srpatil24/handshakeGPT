@@ -1,4 +1,8 @@
 # HandshakeGPT
+## Sample Data
+You can find the handshake data (in prompt-response format) at the following [link](https://www.kaggle.com/datasets/srpatil24/prompt-response-handshakes)
+
+If you want to generate your own data in json format, follow the **Data Collection** and **Extract Three Way Handshakes** sections below
 
 ## Data Collection
 1. Open Wireshark

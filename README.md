@@ -16,4 +16,11 @@ python3 randomWebsites.py
 
 ## Extract Three Way Handshakes
 
-1.
+1. cd into the directory of the github project
+2. Run the following commands
+```
+pip3 install scapy
+# replace input.pcap with the name of the PCAP file you generated earlier
+# the output argument is optional
+python3 extractThreeWayHandshakeDataToJson.py --input input.pcap --output output.json
+```

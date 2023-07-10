@@ -20,7 +20,8 @@ python3 randomWebsites.py
 2. Run the following commands
 ```
 pip3 install scapy
-# replace input.pcap with the name of the PCAP file you generated earlier
-# the output argument is optional
-python3 extractThreeWayHandshakeDataToJson.py --input input.pcap --output output.json
+python3 extractHandshakesToJson.py --input input.pcap --output output.json
 ```
+> replace input.pcap with the name of the PCAP file you generated earlier
+
+> the output argument is optional

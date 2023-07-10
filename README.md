@@ -6,7 +6,7 @@
 3. Run the following commands in Command Prompt (or the equivalent):
 ```
 pip3 install selenium
-git clone
+git clone https://github.com/srpatil24/handshakeGPT.git
 cd dataCollection
 python3 randomWebsites.py
 ```

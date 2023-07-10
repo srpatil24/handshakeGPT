@@ -11,3 +11,9 @@ cd dataCollection
 python3 randomWebsites.py
 ```
 4. After at least 30-45 minutes, stop the script and stop capturing packets
+5. Save the pcap output file to the directory of the github project
+
+
+## Extract Three Way Handshakes
+
+1.

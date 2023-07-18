@@ -20,7 +20,7 @@ def save_tcp_packets_from_pcap(input_file):
     # Read the pcap file
     packets = rdpcap(input_file)
 
-    print("FINISHED READING THE PCAP, NOW STARTING TO DUMPT TO JSON")
+    print("FINISHED READING THE PCAP, NOW STARTING TO DUMP TO JSON")
     # Create the output folder if it doesn't exist
     output_folder = "pcap_output"
     os.makedirs(output_folder, exist_ok=True)
